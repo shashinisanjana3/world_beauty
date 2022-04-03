@@ -1,0 +1,53 @@
+h1{
+	text-align:center;
+	background-color:Green;
+	width:400px;
+	height:60px;
+	margin:0px 0px 0px 500px ;
+	top:0;
+	opacity:0.8;	
+	
+	
+}
+h2{
+	box-sizing:border-box;
+	border:1px solid black;
+	margin:5px;
+	padding:10px;
+	width:400px;
+	background-color:LimeGreen;
+	color:Navy;
+	height:60px;
+	border-radius:50%;
+	text-align:center;
+}
+ul{
+	font-size:25px;
+	font-height:1115em;
+}
+ul li {
+  background: GreenYellow;
+  color: black;
+  margin: 5px;
+  opacity:0.6;
+}
+a{
+	color:red;
+        border:1px solid green;
+	box-sizing:border-box;
+	text-decoration:none;
+	margin:10px;
+	padding:10px;
+	background:yellow;
+	opacity:0.8;
+}
+a:focus{
+	background:DarkGoldenRed;
+	color:White;
+}
+a:hover{
+	background:DarkGoldenRed;
+	color:White;
+	text-decoration:none;
+}
+	

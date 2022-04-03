@@ -1,0 +1,67 @@
+h1{
+	color:MintCream;
+        font-weight:bold;
+	
+        
+   }
+h1{
+	text-align:center;
+        
+        border:10px  black;
+        margin:80px;
+        padding:4px;
+        
+ }
+body{
+	overflow:hidden;
+}
+#beach {
+  position: fixed;
+  left: 0;
+  top: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+/* Add some content at the bottom of the video/page */
+.content {
+  position: fixed;
+  top: 0;
+  
+  color:blue;
+  mix-blend-mode:overlay;
+  width: 100%;
+  padding: 20px;
+}
+
+
+h1:focus{
+	border:blue;
+}
+
+
+a{
+	display:block;
+	font-weight:bold;
+	background:#fff;
+	text-decoration:none;
+	margin:50px;
+	padding:10px;
+	border:1px solid black;
+	box-sizing:border-box;
+	width:100px;
+	transition:0.25;
+	letter-spacing:1px;
+	top:0;
+	color:Navy;
+}
+a:focus{
+	background:blue;
+	color:white;
+	text-decoration:none;
+}
+a:hover{
+	background:blue;
+	color:white;
+}
+	
