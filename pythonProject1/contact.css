@@ -1,0 +1,25 @@
+#abstract_line4{
+  position: fixed;
+  right: 0;
+  middle: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+/* Add some content at the bottom of the video/page */
+.content {
+  position: fixed;
+  top: 0;
+  
+  color:black;
+  mix-blend-mode:overlay;
+  width: 100%;
+  padding: 20px;
+}
+ul{
+	font-size:3em;
+	font-style:Small-caps;
+	margin:100px 3350px 0px 400px;
+        color:Black;
+ 	font-weight:800em;
+}
